@@ -1,4 +1,4 @@
-package com.epam.rd.java.basic.practice2;
+package com.savaz.rd.java.basic.practice2;
  
 public interface List extends Container {
  
